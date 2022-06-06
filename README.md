@@ -1,1 +1,3 @@
 # MachineLearning
+## 1. Abstrak
+Menemukan buku bacaan yang sesusai dengan selera dan kesukaan kadang sangat menyulitkan. Kita bisa mencari referensi di internet, tetapi pencarian pada internet sangatlah luas sehingga membuat kita malah semakin bingung dalam menemukan buku yang kita inginkan. Maka dari itu, perlu adanya suatu sistem dalam bentuk aplikasi rekomendasi buku yang dapat mengatasi masalah tersebut. Melalui aplikasi yang dikembangkan ini juga akan diidentifikasi faktor-faktor yang memengaruhi rekomendasi buku untuk memenuhi dan menyesuaikan apa yang coba ditemukan oleh pengguna aplikasi.
